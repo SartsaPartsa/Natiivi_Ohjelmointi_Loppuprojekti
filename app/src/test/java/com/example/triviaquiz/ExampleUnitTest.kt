@@ -1,4 +1,4 @@
-package com.example.muistipeli_triviaapi
+package com.example.triviaquiz
 
 import org.junit.Test
 

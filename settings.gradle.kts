@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Muistipeli_Trivia API"
+rootProject.name = "Trivia API"
 include(":app")

@@ -1,4 +1,4 @@
-package com.example.muistipeli_triviaapi.ui.theme
+package com.example.triviaquiz.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
